@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.4.1
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Miscellaneous HTTP utilities
 License:	PHP License
 Group:		Development/PHP
