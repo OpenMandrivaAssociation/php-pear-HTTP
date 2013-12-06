@@ -4,7 +4,7 @@
 Summary:	Miscellaneous HTTP utilities
 Name:		php-pear-%{modname}
 Version:	1.4.1
-Release:	9
+Release:	10
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/HTTP/
