@@ -7,7 +7,7 @@ Version:	1.4.1
 Release:	15
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/HTTP/
+Url:		https://pear.php.net/package/HTTP/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	php-pear
